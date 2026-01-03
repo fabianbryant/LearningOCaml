@@ -1,2 +1,4 @@
 .env
 !templates/.env
+rift/*
+!rift/.gitkeep
