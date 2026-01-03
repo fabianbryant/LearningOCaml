@@ -20,5 +20,5 @@ docker run \
   --rm \
   --platform "$PLATFORM" \
   --name "$CONTAINER_NAME" \
-  -v rift:/home/fabo/rift \
+  -v rift:/home/fabian/rift \
   -it "$IMAGE_NAME"
